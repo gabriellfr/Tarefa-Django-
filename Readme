@@ -1,0 +1,26 @@
+# Projeto - Todo List com Django
+
+Este é um projeto de lista de tarefas desenvolvido para a disciplina de Programação Web com Django.
+
+## Funcionalidades
+
+- Adicionar tarefas
+- Editar tarefas
+- Atualizar tarefas no banco de dados
+- Deletar tarefas
+
+## Tecnologias
+
+- Python
+- Django
+- Bootstrap
+
+## Como rodar o projeto
+
+```bash
+cd todo-list-django
+pip install -r requirements.txt
+python manage.py runserver
+```
+
+Acesse em: `http://127.0.0.1:8000/`
